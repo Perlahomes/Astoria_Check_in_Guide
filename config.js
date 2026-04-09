@@ -1,7 +1,7 @@
 // Centralized site data
 const SITE_CONFIG = {
     mainHeading: "Welcome to Astoria Apartment",
-    mapLink: "https://maps.app.goo.gl/RdRXi2yVyh15BtbF7",
+    mapLink: "https://maps.app.goo.gl/mzz89GcoUEj35zEv6",
     touristLink: "",
     wifi: {
         network: "Huawei_y3FheU",
